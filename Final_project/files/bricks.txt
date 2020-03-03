@@ -1,0 +1,29 @@
+rrrr r   r bbbb rrrr
+b    b   b r    b  b
+brrr rrrrr bbbb rrrr
+   b b   b r    b  b
+rrrb r   r bbbb r  r
+                    
+                    
+                    
+rrbb brbbr rbrbr   r
+b  b b   r   b     b
+rbrb rbrrb   r     r
+b    b   r   b      
+r    r   b   r     b
+                    
+                    
+                    
+rbrr r    brbr r   r
+b  r b    r     b r 
+rbrb r    brbr   b  
+b  r b    b     r b 
+r  b rbrb rrbb b   b
+                    
+                    
+                    
+brbrb brbrb b   b   
+  r   r   b br  r   
+  b   r   b r b b   
+  r   b   r r  rr   
+brb   rbbbr r   b   
